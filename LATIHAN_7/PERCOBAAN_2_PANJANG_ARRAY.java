@@ -1,0 +1,19 @@
+package LATIHAN_7;
+
+/**
+ *  NAMA    : Rangga Meinandi
+ *  NIM     : A21900141
+ *  KELAS   : TI-A
+ */
+
+
+public class PERCOBAAN_2_PANJANG_ARRAY {
+    public static void main(String[] args){
+
+        int [] ages = new int[100];
+
+        for (int i = 0; i < ages.length; i++){
+            System.out.print(ages[i]);
+        }
+    }
+}
